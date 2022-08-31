@@ -5,7 +5,7 @@ import Col from "react-bootstrap/Col";
 
 function StoreListings() {
   return (
-    <div>
+    <div style={{ backgroundColor: "#9debb2" }}>
       <h2>Browse stores in Houston</h2>
       <Container style={{ marginTop: "40px", textAlign: "center" }}>
         <Row
